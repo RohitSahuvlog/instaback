@@ -1,0 +1,7 @@
+ {"name":"Rohit",
+    "userName":"Rohit",
+   "email":"sahu",
+    "password":"Rohit",
+    "mobile":"787",
+    "Country":"india",
+    "gender":"Male"}
